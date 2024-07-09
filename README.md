@@ -1,1 +1,1 @@
-# Enter-Hands-On_with_Terraform_on_Azure
+# Hands-On_with_Terraform_on_Azure
